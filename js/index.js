@@ -8,7 +8,6 @@ let cardDetails = {
 
 // Function to validate recipient details
 function validateRecipientDetails(recipientName, recipientAccountNumber, recipientBank) {
-    // Assuming recipient details are hardcoded
     const correctRecipientName = "Obijua Egrinya";
     const correctRecipientAccountNumber = "0066644499";
     const correctRecipientBank = "uba";
